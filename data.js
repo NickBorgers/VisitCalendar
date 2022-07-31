@@ -2,7 +2,7 @@ var readable_data = [
   { eventName: 'Settling in', color: 'orange', start_date: "2022-06-14", end_date: "2022-08-11"},
   { start_date: "2022-09-09", end_date: "2022-09-12"},
   { start_date: "2022-10-06", end_date: "2022-10-12"},
-  { start_date: "2022-10-21", end_date: "2022-13-25"},
+  { start_date: "2022-10-21", end_date: "2022-10-25"},
 ]
 
 readable_data.forEach(function(event){
