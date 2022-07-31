@@ -1,3 +1,8 @@
+/* 
+  This CSS also came from Silder Revolution: https://www.sliderrevolution.com/resources/html-calendar/ 
+  It has been modified to work better as a full-screen view
+*/
+
 *, *:before, *:after {
 -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
