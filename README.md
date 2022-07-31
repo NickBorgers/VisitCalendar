@@ -5,4 +5,4 @@ This project publishes some HTML and CSS to GitHub pages to render calendar even
 
 
 ## Directions
-Modfy [data.js][data.js] as indicated in the comments in that file to add additional events. If the data input is invalid deployment will fail and you should be notified you made a bad change.
+Modfy [data.js](data.js) as indicated in the comments in that file to add additional events. If the data input is invalid deployment will fail and you should be notified you made a bad change.
