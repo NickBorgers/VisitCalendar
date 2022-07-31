@@ -1,0 +1,19 @@
+name: Test changes to data file
+on: [push]
+jobs:
+  Test-Data-File:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: node data.js
+      - run: echo "🍏 Data file test yielded ${{ job.status }}."
