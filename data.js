@@ -1,10 +1,14 @@
+// This is the place to add additional events
 var readable_data = [
   { eventName: 'Settling in', color: 'orange', start_date: "2022-06-14", end_date: "2022-08-11"},
   { start_date: "2022-09-09", end_date: "2022-09-12"},
   { start_date: "2022-10-06", end_date: "2022-10-12"},
   { start_date: "2022-10-21", end_date: "2022-10-25"},
+  // Add your new event here
 ]
 
+
+// Tests for data
 readable_data.forEach(function(event){
   if (!('start_date' in event)) {
 	errorMsg = "start_date is required"
