@@ -390,6 +390,7 @@
 <body>
   <div id="calendar"></div>
   <script src="https:////cdnjs.cloudflare.com/ajax/libs/moment.js/2.5.1/moment.min.js"></script>
+  <script src="data.js"></script>
 
   <script>
     !function() {
@@ -736,11 +737,6 @@
       
       return renderable_data
     }
-    
-    var readable_data = [
-      { eventName: 'Settling in', calendar: 'Life', color: 'orange', start_date: moment("2022-06-14"), end_date: moment("2022-08-11")},
-      { eventName: 'Visitors', calendar: 'Fun', color: 'blue', start_date: moment("2022-10-06"), end_date: moment("2022-10-12")},
-    ]
 
     !function() {
       var render_data = generateRenderData(readable_data);
