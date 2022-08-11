@@ -4,6 +4,9 @@ var readable_data = [
   { start_date: "2022-09-09", end_date: "2022-09-12"},
   { start_date: "2022-10-06", end_date: "2022-10-12"},
   { start_date: "2022-10-21", end_date: "2022-10-25"},
+  { start_date: "2022-11-23", end_date: "2022-11-30"},
+  { start_date: "2022-12-23", end_date: "2023-01-17"},
+  { start_date: "2023-02-16", end_date: "2023-02-21"},
   { start_date: "2023-04-27", end_date: "2023-05-03"},
   // Add your new event here
 ]
