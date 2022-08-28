@@ -1,6 +1,6 @@
 // This is the place to add additional events
 var readable_data = [
-  { eventName: 'Settling in', color: 'orange', start_date: "2022-06-14", end_date: "2022-08-23"},
+  { eventName: 'Settling in', color: 'orange', start_date: "2022-06-14", end_date: "2022-09-05"},
   { start_date: "2022-09-09", end_date: "2022-09-12"},
   { start_date: "2022-09-29", end_date: "2022-10-03"},
   { start_date: "2022-10-06", end_date: "2022-10-12"},
