@@ -11,6 +11,7 @@ var readable_data = [
   { start_date: "2023-02-16", end_date: "2023-02-21"},
   { start_date: "2023-02-24", end_date: "2023-02-27"},
   { start_date: "2023-03-16", end_date: "2023-03-21"},
+  { start_date: "2023-03-28", end_date: "2023-04-01"},
   { start_date: "2023-04-06", end_date: "2023-04-11"},
   { start_date: "2023-04-27", end_date: "2023-05-03"},
   { start_date: "2023-05-13", end_date: "2023-05-30"},
