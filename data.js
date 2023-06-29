@@ -17,6 +17,8 @@ var readable_data = [
   { start_date: "2023-05-13", end_date: "2023-05-30"},
   { start_date: "2023-06-16", end_date: "2023-07-06"},
   { start_date: "2023-07-19", end_date: "2023-07-24"},
+  { start_date: "2023-08-03", end_date: "2023-08-07"},
+  { start_date: "2023-08-23", end_date: "2023-08-29"},
   { start_date: "2023-10-07", end_date: "2023-10-24"},
   // Add your new event here
 ]
