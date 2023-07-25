@@ -1,7 +1,7 @@
 # Visit Calendar Tool
 
 ## Description
-This project publishes some HTML and CSS to GitHub pages to render calendar events described in JavaScript. Minimal personal information is exposed to preserve privacy.
+This project uses [GitHub Pages](https://pages.github.com/) to [publish some HTML and CSS to render calendar events](https://visit.nickborgers.com) described in JavaScript. Minimal personal information is exposed to preserve privacy.
 
 
 ## Directions
