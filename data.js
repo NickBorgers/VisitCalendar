@@ -22,6 +22,8 @@ var readable_data = [
   { start_date: "2023-09-07", end_date: "2023-11-30"},
   { start_date: "2023-12-03", end_date: "2023-12-13"},
   { start_date: "2024-01-18", end_date: "2024-01-22"},
+  { start_date: "2024-02-02", end_date: "2024-02-14"},
+  { start_date: "2024-03-09", end_date: "2024-03-14"},
   { start_date: "2024-04-15", end_date: "2024-04-25"},
   { start_date: "2024-04-25", end_date: "2024-05-11"},
   { eventName: 'Leave NYC', color: 'orange', start_date: "2024-05-11", end_date: "2025-12-31"},
